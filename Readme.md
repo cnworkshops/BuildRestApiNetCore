@@ -1,3 +1,5 @@
+[Link al Artículo que acompana este Post](https://www.red-gate.com/simple-talk/dotnet/c-programming/build-a-rest-api-in-net-core/?utm_source=simpletalkdotnet&utm_medium=pubemail&utm_content=20200908-slota1&utm_term=simpletalkmain)
+
 Notes:
 
 ```shell
